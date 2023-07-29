@@ -1,0 +1,61 @@
+
+  /* styles.css */
+
+/* Styling for the Form container */
+.Form-container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+/* Styling for the Form fields and labels */
+.Form-group {
+  margin-bottom: 20px;
+}
+
+.Form-label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.Form-control {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Styling for the Submit button */
+.Form-submit-btn {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.Form-submit-btn:hover {
+  background-color: #0056b3;
+}
+.h1 {
+  text-align: center!important;
+}
+.Alert {
+  text-align: center;
+}
+
+@media (max-width:768px) { 
+  .Form-container {
+    max-width: 400px;
+    font-size: small;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 15px 15px;
+  }
+}

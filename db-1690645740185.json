@@ -1,0 +1,60 @@
+{
+  "user-data": [
+    {
+      "fullname": "kartik7",
+      "city": "mumbai7",
+      "email": "kar7@gmail.com",
+      "pass": "12347",
+      "id": 7
+    },
+    {
+      "fullname": "kartik8",
+      "city": "mumbai8",
+      "email": "kar8@gmail.com",
+      "pass": "12348",
+      "id": 8
+    },
+    {
+      "fullname": "kartik9",
+      "city": "mumbai9",
+      "email": "kar9@gmail.com",
+      "pass": "12349",
+      "id": 9
+    },
+    {
+      "fullname": "kartik10",
+      "city": "mumbai10",
+      "email": "kar10@gmail.com",
+      "pass": "123410",
+      "id": 10
+    },
+    {
+      "fullname": "kartik11",
+      "city": "mumbai11",
+      "email": "kar11@gmail.com",
+      "pass": "123411",
+      "id": 11
+    },
+    {
+      "fullname": "kartik12",
+      "city": "mummbai12",
+      "email": "kar12@gmail.com",
+      "pass": "123412",
+      "id": 12
+    },
+    {
+      "fullname": "kartik13",
+      "city": "mumbau13",
+      "email": "kar13@gmail,com",
+      "pass": "123413",
+      "id": 13
+    },
+    {
+      "fullname": "kartik14",
+      "city": "mumbai14",
+      "email": "kar14@gmail.com",
+      "pass": "123414",
+      "id": 14
+    }
+  ]
+}
